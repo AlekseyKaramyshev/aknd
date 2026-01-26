@@ -49,7 +49,7 @@ resource "yandex_compute_instance" "platform" {
 
   metadata = {
     serial-port-enable = var.metadata.vm_web.serial-port-enable
-    ssh-keys           = var.metadata.vm_web.ssh-keys
+    ssh-keys           = "ubuntu:${file(var.metadata.vm_db_resources.ssh-keys)}"
   }
 
 }
@@ -84,7 +84,7 @@ resource "yandex_compute_instance" "platform1" {
 
   metadata = {
     serial-port-enable = var.metadata.vm_db_resources.serial-port-enable
-    ssh-keys           = var.metadata.vm_db_resources.ssh-keys
+    ssh-keys           = "ubuntu:${file(var.metadata.vm_db_resources.ssh-keys)}"
   }
 
 }
