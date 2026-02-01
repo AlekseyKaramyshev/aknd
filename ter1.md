@@ -4,7 +4,8 @@
 2. Скачайте на свой ПК этот git-репозиторий. Исходный код для выполнения задания расположен в директории **01/src**.
 3. Убедитесь, что в вашей ОС установлен docker.
 
-<img width="549" height="132" alt="ter1" src="https://github.com/user-attachments/assets/d8e4bdf1-4508-4d5e-acf8-121e8c5bc0b9" />
+<img width="549" height="132" alt="ter1" src="https://github.com/user-attachments/assets/ceebe471-091c-41f6-ab17-a2e3d63361e7" />
+
 
 ---
 
@@ -25,7 +26,8 @@
 
 1. Скачивание зависимостей
 
-<img width="1182" height="597" alt="ter1_1" src="https://github.com/user-attachments/assets/84be0fb5-f065-4998-bce5-58281fbade98" />
+<img width="1182" height="597" alt="ter1_1" src="https://github.com/user-attachments/assets/307f3a7e-6cba-4bb1-896d-1b7ee59051c3" />
+
 
 ---
 
@@ -38,7 +40,7 @@ personal.auto.tfvars
 
 3. Значение секрета
 
-<img width="1593" height="65" alt="ter3" src="https://github.com/user-attachments/assets/9d90ce2b-93b8-41e2-9d01-b9d9ef54a66f" />
+<img width="1593" height="65" alt="ter3" src="https://github.com/user-attachments/assets/cb8d3c04-8235-418a-9462-274087f1764b" />
 
 ---
 
@@ -123,13 +125,13 @@ resource "docker_container" "nginx" {
 dev1@dev1-host ~/Documents/Netology/DevOPS/.git-repos/ter-homeworks/01/src  (main)$ 
 ```
 
-<img width="1429" height="141" alt="ter5" src="https://github.com/user-attachments/assets/1b6b8daf-ac03-4a48-800c-f6654c930b07" />
+
+<img width="1429" height="141" alt="ter5" src="https://github.com/user-attachments/assets/271590c4-bc2b-47cd-84fc-4c871b7cb47d" />
+
 
 ---
 
 6. Опция **-auto-approve** выполняет инструкции без подтверждения. Что приведёт к деструктивным последствиям, если в манифест случайно или умышленно ( например скопированный из Интернета манифест  ) были внесены нежелательные инструкции.
-
-<img width="1400" height="113" alt="ter6" src="https://github.com/user-attachments/assets/aa45e282-481d-43d8-b4cb-2b64bcec1ac3" />
 
 ---
 
@@ -206,4 +208,4 @@ dev1@dev1-host ~/Documents/Netology/DevOPS/.git-repos/ter-homeworks/01/src  (mai
 dev1@dev1-host ~/Documents/Netology/DevOPS/.git-repos/ter-homeworks/01/src  (main)$ 
 ```
 
-<img width="1416" height="138" alt="ter3_1" src="https://github.com/user-attachments/assets/95b02e33-7bee-4d04-95d1-ed87e018f1d0" />
+<img width="1416" height="138" alt="ter3_1" src="https://github.com/user-attachments/assets/9b882c8d-f882-4d86-837a-b6f3f1d84257" />
