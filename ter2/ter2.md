@@ -7,21 +7,22 @@
 
 Параметры preemptible = true и core_fraction=5 могут пригодиться для экономии ресусов, например, при деплое внутри dev, staging окружений/контуров.
 
-<img width="658" height="815" alt="ter2_1" src="https://github.com/user-attachments/assets/c462eb86-c78c-40c5-8c63-b6dbcb69e76b" />
+<img width="658" height="815" alt="ter2_1" src="https://github.com/user-attachments/assets/b07e7262-5a10-4d73-9316-a1ebb588446e" />
 
-<img width="720" height="663" alt="ter2_2" src="https://github.com/user-attachments/assets/c125c243-755a-43f9-b185-0fd42bd09fc7" />
+<img width="720" height="663" alt="ter2_2" src="https://github.com/user-attachments/assets/9d097bf6-b40d-48dd-a53e-5d5b16f4ad5f" />
 
 ---
 
 **Задание 4**
 
-<img width="1788" height="74" alt="2_4" src="https://github.com/user-attachments/assets/ec0d8e13-c67a-4b3b-adf3-64db2f331fdd" />
+<img width="1788" height="74" alt="2_4" src="https://github.com/user-attachments/assets/13ad9e0f-579b-4e8f-9d2f-1375be5f975f" />
 
 ---
 
 **Задание 7***
 
-<img width="1843" height="382" alt="ter7" src="https://github.com/user-attachments/assets/b785fdcc-329e-46ec-8c5b-15fa4d0bed53" />
+<img width="1843" height="382" alt="ter7" src="https://github.com/user-attachments/assets/0be8cbdd-d07d-4980-b643-24faf115c9bf" />
+
 
 ```zsh
 > local.test_list[1]
